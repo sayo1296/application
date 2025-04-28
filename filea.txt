@@ -1,1 +1,2 @@
-This is file A
+This is file A user
+This is the change to the file
